@@ -39,3 +39,29 @@ O projeto foi implementado em Python, organizado em uma classe principal chamada
 - Execução:  
   ```bash
   python finanbot.py
+  
+---
+
+## 6. Resultados
+- O FinanBot funciona corretamente em ambiente local.  
+- O projeto cumpre os objetivos de ser **educativo, simples e funcional**.  
+- Não há dependências externas, garantindo portabilidade e facilidade de uso.  
+
+---
+
+## 7. Métricas
+Para avaliar o desempenho e a utilidade do FinanBot, foram definidas métricas qualitativas e quantitativas:
+
+- **Interatividade**: número de interações realizadas pelo usuário em uma sessão.  
+- **Cobertura de conteúdo**: quantidade de ativos e perfis explicados corretamente.  
+- **Clareza das respostas**: feedback dos usuários sobre a facilidade de compreensão.  
+- **Consistência do aviso padrão**: verificação de que todas as respostas incluem o aviso obrigatório.  
+- **Estabilidade de execução**: número de vezes que o programa roda sem erros em diferentes ambientes (VS Code, CMD, IDLE).  
+
+Essas métricas permitem validar que o FinanBot cumpre seu papel educativo e mantém confiabilidade em diferentes cenários de uso.  
+
+---
+
+## 8. Conclusão
+O projeto **FinanBot** foi concluído com sucesso, atendendo aos requisitos de simplicidade e clareza.  
+Ele está pronto para ser publicado no GitHub como entrega final, servindo como exemplo de aplicação prática de Python para educação financeira.  
